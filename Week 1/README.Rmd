@@ -50,4 +50,4 @@ library(lubridate)
 
 ## Class Notes
 
-[Course Notes][]
+[Course Notes][https://github.com/AndersonUyekita/software-processes-and-agile-practices/blob/main/resources/c2-course-notes-software-processes-and-agile-practices.pdf]

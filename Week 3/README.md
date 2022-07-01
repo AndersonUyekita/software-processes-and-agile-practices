@@ -10,7 +10,7 @@
     href="https://www.coursera.org/learn/software-processes-and-agile-practices"
     target="_blank" rel="noopener">Software Processes and Agile
     Practices</a>
-    -   🧑‍🏫 Instructor: Kenny Wong
+    -   🧑‍🏫 Instructors: Kenny Wong, Morgan Patzelt, and Bradley Poulette
 -   📆 Week 3
     -   🚦 Start: Friday, 01 July 2022
     -   🏁 Finish: Friday, 01 July 2022
@@ -19,15 +19,14 @@
 
 #### Assignments & Deliverables
 
--   [🚀 Course Project 3
-    Repository](https://github.com/AndersonUyekita/software-processes-and-agile-practices_course-project-3)
 -   [📝 Quiz 3](./quiz-3_software-processes-and-agile-practices.md)
 
 #### Slides
 
--   Module 8 – Confidence intervals
--   Module 9 – Hypothesis testing
--   Module 10 – P-values
+-   Module 3: Agile Practices
+    -   Lesson 1: Using Agile With Process Models
+    -   Lesson 2: Extreme Programming
+    -   Lesson 3: Scrum
 
 #### Description
 
@@ -45,3 +44,6 @@
 ------------------------------------------------------------------------
 
 ## Class Notes
+
+\[Course
+Notes\]\[<https://github.com/AndersonUyekita/software-processes-and-agile-practices/blob/main/resources/c2-course-notes-software-processes-and-agile-practices.pdf>\]

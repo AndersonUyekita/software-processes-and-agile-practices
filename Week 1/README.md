@@ -10,7 +10,7 @@
     href="https://www.coursera.org/learn/software-processes-and-agile-practices"
     target="_blank" rel="noopener">Software Processes and Agile
     Practices</a>
-    -   🧑‍🏫 Instructor: Kenny Wong
+    -   🧑‍🏫 Instructors: Kenny Wong, Morgan Patzelt, and Bradley Poulette
 -   📆 Week 1
     -   🚦 Start: Friday, 01 July 2022
     -   🏁 Finish: Friday, 01 July 2022
@@ -19,16 +19,14 @@
 
 #### Assignments & Deliverables
 
--   [🚀 Course Project 1
-    Repository](https://github.com/AndersonUyekita/software-processes-and-agile-practices_course-project-1)
 -   [📝 Quiz 1](./quiz-1_software-processes-and-agile-practices.md)
 
 #### Slides
 
--   Module 1 – Introductory video
--   Module 2 – Probability
--   Module 3 – Conditional probability
--   Module 4 – Expected values
+-   Module 1: Introduction to Processes
+    -   Introduction
+    -   Lesson 1: Processes and Practices
+    -   Lesson 2: Software Engineering Activities
 
 #### Description
 
@@ -45,3 +43,6 @@
 ------------------------------------------------------------------------
 
 ## Class Notes
+
+\[Course
+Notes\]\[<https://github.com/AndersonUyekita/software-processes-and-agile-practices/blob/main/resources/c2-course-notes-software-processes-and-agile-practices.pdf>\]

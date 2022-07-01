@@ -10,7 +10,7 @@ Software Processes and Agile Practices
     href="https://www.coursera.org/learn/software-processes-and-agile-practices"
     target="_blank" rel="noopener">Software Processes and Agile
     Practices</a>
-    -   🧑‍🏫 Instructor: Kenny Wong, Morgan Patzelt, and Bradley Poulette
+    -   🧑‍🏫 Instructors: Kenny Wong, Morgan Patzelt, and Bradley Poulette
     -   🚦 Start: Friday, 01 July 2022
     -   🏁 Finish: Friday, 01 July 2022
 
@@ -18,6 +18,8 @@ Software Processes and Agile Practices
 
 #### Assignments & Deliverables
 
+-   [🚀 Final
+    Assessment](./Week%204/final-assessment_software-processes-and-agile-practices.md)
 -   [📝 Quiz
     1](./Week%201/quiz-1_software-processes-and-agile-practices.md)
 -   [📝 Quiz
@@ -26,8 +28,6 @@ Software Processes and Agile Practices
     3](./Week%203/quiz-3_software-processes-and-agile-practices.md)
 -   [📝 Quiz
     4](./Week%204/quiz-4_software-processes-and-agile-practices.md)
--   [🚀 Final
-    Assessment](./Week%204/final-assessment_software-processes-and-agile-practices.md)
 
 #### Class Notes
 
@@ -35,7 +35,8 @@ Software Processes and Agile Practices
 -   [📆 Week 2](./Week%202)
 -   [📆 Week 3](./Week%203)
 -   [📆 Week 4](./Week%204)
--   [📑 Course Textbook Notes](./book)
+-   [📑 Course Textbook
+    Notes](https://github.com/AndersonUyekita/software-processes-and-agile-practices/blob/main/resources/c2-course-notes-software-processes-and-agile-practices.pdf)
 
 #### Course Description
 

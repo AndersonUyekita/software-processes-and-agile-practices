@@ -33,11 +33,11 @@ library(lubridate)
 
 #### Assignments & Deliverables
 
+* [&#x1F680; Final Assessment](./Week 4/final-assessment_software-processes-and-agile-practices.md)
 * [&#x1F4DD; Quiz 1](./Week 1/quiz-1_software-processes-and-agile-practices.md)
 * [&#x1F4DD; Quiz 2](./Week 2/quiz-2_software-processes-and-agile-practices.md)
 * [&#x1F4DD; Quiz 3](./Week 3/quiz-3_software-processes-and-agile-practices.md)
 * [&#x1F4DD; Quiz 4](./Week 4/quiz-4_software-processes-and-agile-practices.md)
-* [&#x1F680; Final Assessment](./Week 4/final-assessment_software-processes-and-agile-practices.md)
 
 #### Class Notes
 
@@ -45,7 +45,7 @@ library(lubridate)
 * [&#x1F4C6; Week 2](./Week 2)
 * [&#x1F4C6; Week 3](./Week 3)
 * [&#x1F4C6; Week 4](./Week 4)
-* [&#x1F4D1; Course Textbook Notes](./book)
+* [&#x1F4D1; Course Textbook Notes](https://github.com/AndersonUyekita/software-processes-and-agile-practices/blob/main/resources/c2-course-notes-software-processes-and-agile-practices.pdf)
 
 #### Course Description
 

@@ -10,7 +10,7 @@
     href="https://www.coursera.org/learn/software-processes-and-agile-practices"
     target="_blank" rel="noopener">Software Processes and Agile
     Practices</a>
-    -   🧑‍🏫 Instructor: Kenny Wong
+    -   🧑‍🏫 Instructors: Kenny Wong, Morgan Patzelt, and Bradley Poulette
 -   📆 Week 2
     -   🚦 Start: Friday, 01 July 2022
     -   🏁 Finish: Friday, 01 July 2022
@@ -19,15 +19,16 @@
 
 #### Assignments & Deliverables
 
--   [🚀 Course Project 2
-    Repository](https://github.com/AndersonUyekita/software-processes-and-agile-practices_course-project-2)
 -   [📝 Quiz 2](./quiz-2_software-processes-and-agile-practices.md)
 
 #### Slides
 
--   Module 5 – Variability
--   Module 6 – Distributions
--   Module 7 – Asymptotics
+-   Module 2: Process Models
+    -   Lesson 1: Linear Models
+    -   Lesson 2: Spiral Model
+    -   Lesson 3: Unified Process
+    -   Lesson 4: Prototyping
+    -   Lesson 5: Continuous Delivery
 
 #### Description
 
@@ -41,3 +42,6 @@
 ------------------------------------------------------------------------
 
 ## Class Notes
+
+\[Course
+Notes\]\[<https://github.com/AndersonUyekita/software-processes-and-agile-practices/blob/main/resources/c2-course-notes-software-processes-and-agile-practices.pdf>\]
