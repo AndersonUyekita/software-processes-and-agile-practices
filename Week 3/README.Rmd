@@ -1,0 +1,52 @@
+---
+title: '`Week 3` Software Processes and Agile Practices'
+author: '`r if(knitr::is_html_output()) {"&#x1f468;&#x1F3FB;&#x200d;&#x1f4bb; Anderson H Uyekita"} else {NULL}`'
+output:
+  github_document: default
+params:
+  author: 'Anderson H Uyekita'
+  course: 'Software Processes and Agile Practices'
+  course_url: 'https://www.coursera.org/learn/software-processes-and-agile-practices'
+  specialization: 'Software Product Management Specialization'
+  specialization_url: 'https://www.coursera.org/specializations/product-management'
+  instructor: 'Kenny Wong'
+  course_start: !r lubridate::ymd('2022/07/01')
+  course_finish: !r lubridate::today(tzone = "America/Sao_Paulo")
+  week: ' Week 3'
+---
+
+```{r setup,include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, cache = TRUE, message = FALSE, warning = FALSE)
+library(rmarkdown)
+library(lubridate)
+```
+
+`r if(!knitr::is_html_output()) {sprintf(fmt = "* &#x1f468;&#x1F3FB;&#x200d;&#x1f4bb; Author: %s", params$author)}`
+`r sprintf(fmt = "* &#x1f4da; Specialization: [%s](%s){target='_blank' rel='noopener'}", params$specialization, params$specialization_url)`
+`r sprintf(fmt = "* &#x1f4d6; Course: [%s](%s){target='_blank' rel='noopener'}", params$course, params$course_url)`
+    `r sprintf(fmt = "* &#x1F9D1;&#x200d;&#x1F3EB; Instructor: %s", params$instructor)`
+`r sprintf(fmt = "* &#x1F4C6; %s", params$week)`
+    `r sprintf(fmt = "* &#x1F6A6; Start: %s", format(params$course_start, "%A, %d %B %Y"))`
+    `r sprintf(fmt = "* &#x1F3C1; Finish: %s", format(params$course_finish, "%A, %d %B %Y"))`
+
+--------------------------------------------------------------------------------
+
+#### Assignments & Deliverables
+
+* [&#x1F680; Course Project 3 Repository](https://github.com/AndersonUyekita/software-processes-and-agile-practices_course-project-3)
+* [&#x1F4DD; Quiz 3](./quiz-3_software-processes-and-agile-practices.md)
+
+#### Slides
+
+* Module 8 -- Confidence intervals
+* Module 9 -- Hypothesis testing
+* Module 10 -- P-values
+
+#### Description
+
+> Do you want to help developers reach their full potential? Do you want to impress clients by delivering a great product on-schedule and on-budget? Then this module is the place for you! In this module, you will learn some Agile methodologies that are practiced in the industry today. This module will cover the Scrum and Extreme Programming methodologies. The practices in these methodologies are some of the most popular practices in the industry today. They provide practices that will help to maintain organized and effective development. These methodologies will help you to know the exact state of your product and deliver successfully!
+
+--------------------------------------------------------------------------------
+
+## Class Notes
+
