@@ -9,8 +9,8 @@ params:
   course_url: 'https://www.coursera.org/learn/software-processes-and-agile-practices'
   specialization: 'Software Product Management Specialization'
   specialization_url: 'https://www.coursera.org/specializations/product-management'
-  instructor: 'Kenny Wong'
-  course_start: !r lubridate::ymd('2022/07/01')
+  instructor: 'Kenny Wong, Morgan Patzelt, and Bradley Poulette'
+  course_start: !r lubridate::ymd('2022/07/01', tz = "America/Sao_Paulo")
   course_finish: !r lubridate::today(tzone = "America/Sao_Paulo")
   certificate_url: './'
 ---
@@ -24,7 +24,7 @@ library(lubridate)
 `r if(!knitr::is_html_output()) {sprintf(fmt = "* &#x1f468;&#x1F3FB;&#x200d;&#x1f4bb; Author: %s", params$author)}`
 `r sprintf(fmt = "* &#x1f4da; Specialization: [%s](%s){target='_blank' rel='noopener'}", params$specialization, params$specialization_url)`
 `r sprintf(fmt = "* &#x1f4d6; Course: [%s](%s){target='_blank' rel='noopener'}", params$course, params$course_url)`
-    `r sprintf(fmt = "* &#x1F9D1;&#x200d;&#x1F3EB; Instructor: %s", params$instructor)`
+    `r sprintf(fmt = "* &#x1F9D1;&#x200d;&#x1F3EB; Instructors: %s", params$instructor)`
     `r sprintf(fmt = "* &#x1F6A6; Start: %s", format(params$course_start, "%A, %d %B %Y"))`
     `r sprintf(fmt = "* &#x1F3C1; Finish: %s", format(params$course_finish, "%A, %d %B %Y"))`
 `r if(params$certificate_url != "./") {sprintf(fmt = "* &#x1F393; [Certificate](%s)", params$certificate_url)}`
@@ -34,7 +34,10 @@ library(lubridate)
 #### Assignments & Deliverables
 
 * [&#x1F4DD; Quiz 1](./Week 1/quiz-1_software-processes-and-agile-practices.md)
+* [&#x1F4DD; Quiz 2](./Week 2/quiz-2_software-processes-and-agile-practices.md)
+* [&#x1F4DD; Quiz 3](./Week 3/quiz-3_software-processes-and-agile-practices.md)
 * [&#x1F4DD; Quiz 4](./Week 4/quiz-4_software-processes-and-agile-practices.md)
+* [&#x1F680; Final Assessment](./Week 4/final-assessment_software-processes-and-agile-practices.md)
 
 #### Class Notes
 
@@ -48,20 +51,22 @@ library(lubridate)
 
 This course delves into a variety of processes to structure software development. It also covers the foundations of core Agile practices, such as Extreme Programming and Scrum.
 
-
 #### Course Syllabus
 
 * Module 1: Introduction to Processes
+    * Introduction
+    * Lesson 1: Processes and Practices
+    * Lesson 2: Software Engineering Activities
 * Module 2: Process Models
+    * Lesson 1: Linear Models
+    * Lesson 2: Spiral Model
+    * Lesson 3: Unified Process
+    * Lesson 4: Prototyping
+    * Lesson 5: Continuous Delivery
 * Module 3: Agile Practices
+    * Lesson 1: Using Agile With Process Models
+    * Lesson 2: Extreme Programming
+    * Lesson 3: Scrum
 * Module 4: Other Practices
-
-#### Course Textbook
-
-The book [&#x1F4D4; NA](./book/na.pdf) covers the lecture material in this course.
-
-#### Course Projects
-
-
-
-
+    * Lesson 1: Agile Variations and Lean Software Development
+    * Lesson 2: Kanban
